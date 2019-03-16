@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% from "bootstrap/pagination.html" import render_pagination %}
+
+{% block page_body %}
+    <div class="container">
+        <a href="{{ url_for('main.cardedit') }}" class="btn btn-primary">添加code码</a>
+    </div>
+    <div class="container">
+        {% for post in posts %}
+            <h2><a href="{{ url_for('main.cardpost', id = post.id) }}">{{ post.code }}</a></h2>
+            <div>
+                {{ post.count|safe }}
+            </div>
+        {% endfor %}
+
+        {% if pagination %}
+            {{ render_pagination(pagination) }}
+        {% endif %}
+
+    </div>
+{% endblock %}
+
+
+{% block footer %}
+
+{% endblock %}

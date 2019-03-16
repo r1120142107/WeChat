@@ -1,0 +1,46 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "flask >=0.10",
+    "python >=3.6,<3.7.0a0",
+    "sqlalchemy >=0.8.0"
+  ],
+  "files": [
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/not-zip-safe",
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/requires.txt",
+    "Lib/site-packages/Flask_SQLAlchemy-2.3.2-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/flask_sqlalchemy/__init__.py",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/__pycache__/model.cpython-36.pyc",
+    "Lib/site-packages/flask_sqlalchemy/_compat.py",
+    "Lib/site-packages/flask_sqlalchemy/model.py"
+  ],
+  "fn": "flask-sqlalchemy-2.3.2-py36_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\flask-sqlalchemy-2.3.2-py36_0",
+    "type": 1
+  },
+  "md5": "a4ef42ecce2df10b39d5cac9e96f29c2",
+  "name": "flask-sqlalchemy",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 28959,
+  "subdir": "win-64",
+  "timestamp": 1536859322859,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/flask-sqlalchemy-2.3.2-py36_0.tar.bz2",
+  "version": "2.3.2",
+  "with_features_depends": {}
+}

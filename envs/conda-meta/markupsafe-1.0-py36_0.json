@@ -1,0 +1,46 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-08-18",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/MarkupSafe-1.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/MarkupSafe-1.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/MarkupSafe-1.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/MarkupSafe-1.0-py3.6.egg-info/not-zip-safe",
+    "Lib/site-packages/MarkupSafe-1.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/markupsafe/__init__.py",
+    "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_constants.cpython-36.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_native.cpython-36.pyc",
+    "Lib/site-packages/markupsafe/_compat.py",
+    "Lib/site-packages/markupsafe/_constants.py",
+    "Lib/site-packages/markupsafe/_native.py",
+    "Lib/site-packages/markupsafe/_speedups.c",
+    "Lib/site-packages/markupsafe/_speedups.cp36-win_amd64.pyd"
+  ],
+  "fn": "markupsafe-1.0-py36_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\markupsafe-1.0-py36_0",
+    "type": 1
+  },
+  "md5": "04364214785111b16df971c6b5c355f5",
+  "name": "markupsafe",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 28218,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/markupsafe-1.0-py36_0.tar.bz2",
+  "version": "1.0",
+  "with_features_depends": {}
+}

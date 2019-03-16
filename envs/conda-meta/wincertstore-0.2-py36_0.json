@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-09-05",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/wincertstore.cpython-36.pyc",
+    "Lib/site-packages/wincertstore-0.2-py3.6.egg-info",
+    "Lib/site-packages/wincertstore.py"
+  ],
+  "fn": "wincertstore-0.2-py36_0.tar.bz2",
+  "license": "PSF 2",
+  "license_family": "PSF",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\wincertstore-0.2-py36_0",
+    "type": 1
+  },
+  "md5": "1cce46c0407cf83b1f284981c159e090",
+  "name": "wincertstore",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 14407,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/wincertstore-0.2-py36_0.tar.bz2",
+  "version": "0.2",
+  "with_features_depends": {}
+}

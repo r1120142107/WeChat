@@ -1,0 +1,32 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2016-08-26",
+  "depends": [
+    "vs2015_runtime"
+  ],
+  "files": [],
+  "fn": "vc-14-0.tar.bz2",
+  "license": "Modified BSD License (3-clause)",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\vc-14-0",
+    "type": 1
+  },
+  "md5": "8d9873b21c316e226a143fcfcb9f06d8",
+  "name": "vc",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 703,
+  "subdir": "win-64",
+  "track_features": "vc14",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/vc-14-0.tar.bz2",
+  "version": "14",
+  "with_features_depends": {}
+}

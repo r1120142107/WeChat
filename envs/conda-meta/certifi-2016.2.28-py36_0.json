@@ -1,0 +1,45 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2016-12-24",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/certifi-2016.2.28-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/certifi-2016.2.28-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/certifi-2016.2.28-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/certifi-2016.2.28-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-36.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-36.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/old_root.pem",
+    "Lib/site-packages/certifi/weak.pem"
+  ],
+  "fn": "certifi-2016.2.28-py36_0.tar.bz2",
+  "license": "ISC",
+  "license_family": "Other",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\certifi-2016.2.28-py36_0",
+    "type": 1
+  },
+  "md5": "a789f20392845f6dd7c77c12bdff41d4",
+  "name": "certifi",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 219020,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/certifi-2016.2.28-py36_0.tar.bz2",
+  "version": "2016.2.28",
+  "with_features_depends": {}
+}
